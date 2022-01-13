@@ -11,10 +11,10 @@ I believe what keeps me stand out is my persistence, and my priority is perfectl
 I believe my exceptional attitude and specialized experience would make me an asset to your team
 
 ## About Me
-💼 Frontend Developer @ [ForceTouches](https://www.forcetouches.com)
-👨🏽‍💻 Visit my [Personal Website](https://mohamed-mahsob.vercel.app) for more
-💬 Ask me about **Js and ReactJs**
-🌱 I’m currently learning **Next.js and Redux Toolkit**
+- 💼 Frontend Developer @ [ForceTouches](https://www.forcetouches.com)
+- 👨🏽‍💻 Visit my [Personal Website](https://mohamed-mahsob.vercel.app) for more
+- 💬 Ask me about **Js and ReactJs**
+- 🌱 I’m currently learning **Next.js and Redux Toolkit**
 
 ## Some of languages and tools I have worked with
 <div>  
